@@ -13,7 +13,7 @@ public class Task2 {
         products.put("Plum", 1.99);
         products.put("Apple", 2.50);
         products.put("Banana", 3.12);
-        products.put("Rice", 1.55);
+        products.put("Rice", 2.00);
 
         AtomicInteger count = new AtomicInteger(0);
         products.entrySet()
